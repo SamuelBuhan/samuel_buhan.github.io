@@ -1,6 +1,6 @@
 # SamuelBuhan.github.io
 
-First version of my personnal website still under contruction...
+First version of my personnal website still under construction...
 
 
 ## Tutorial 
