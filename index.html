@@ -9,19 +9,22 @@ Owner : Samuel BUHAN
         <title> Samuel BUHAN Website</title>
         <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
         <script src="https://kit.fontawesome.com/7f0eb3ccfd.js" crossorigin="anonymous"></script>
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    </head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200;400&display=swap" rel="stylesheet">    </head>
     <body>
-        <table>
-            <tr>
-                <td><img height="120px" src="img/Lelouch.PNG"</nav></td>
-                <td style="font-size: 20px;"><h1 style="font-family: Arial">Welcome to my Website</h1></td>
-            </tr>
-        </table>
-        <nav id="header">
-            <a class="mainNav" href="pages/workExperiences.html"> <b>Work experiences</b></a>
-            <a class="mainNav" href="pages/education.html"><b>Education</b></a>
-        </nav>
+        <section class="header">
+            <table>
+                <tr>
+                    <td><img id="profile-pic" height="120px" src="img/Lelouch.PNG"></td>
+                    <td style="font-size: 20px;"><h1 style="font-family: Arial">Welcome to my Website</h1></td>
+                </tr>
+            </table>
+            <nav id="header">
+                <a class="mainNav" href="pages/workExperiences.html"> <b>Work experiences</b></a>
+                <a class="mainNav" href="pages/education.html"><b>Education</b></a>
+            </nav>
+        </section>
         <h2>About me:</h2>
         <p>
             I'm an electronic engineer who has graduated from the engineering 
@@ -39,12 +42,13 @@ Owner : Samuel BUHAN
             </ul>
             If you want to contact me please click on these links :
         </p>
-    </body>
-    <div>
-        <i class="fab fa-linkedin" style="font-size: 30px;"></i> <a id="linkedin" href="https://www.linkedin.com/in/samuel-buhan-798529175">Samuel Buhan</a> 
-    </div>
-    <div>
-        <i class="material-icons">email</i> <a href="mailto:samuelbuhan@gmail.com">mail</a>
-    </div>
-    
+    <section class="bottom">
+        <div>
+            <i class="fab fa-linkedin" style="font-size: 30px;"></i> <a href="https://www.linkedin.com/in/samuel-buhan-798529175">Samuel Buhan</a> 
+        </div>
+        <div>
+            <i class="fa fa-envelope" style="font-size: 30px;"></i> <a href="mailto:samuelbuhan@gmail.com">email</a>
+        </div>
+    </section>
+    </body>    
 </html>

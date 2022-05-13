@@ -2,10 +2,18 @@
 #header
 {
     background-color: darkgrey;
+    width:auto;
 }
 #linkedin:link
 {
     text-decoration: none;
+}
+
+#profile-pic
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
 }
 
 /* CLASS*/
@@ -21,6 +29,26 @@ a.mainNav
 }
 
 
+section.bottom
+{
+    border-top: 2px groove black;
+    /* background-image: ; */
+}
+
+/* section.header
+{
+	position: fixed;
+	left:0;
+	right:0;
+	z-index:1;
+} */
+
+
+/* Classique */
+body
+{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
 
 h2
 {
@@ -28,7 +56,7 @@ h2
 }
 
 a:hover{
-    background-size: 100% 1em;
+    background-color: gold;
 }
 
 p
@@ -38,9 +66,8 @@ p
 
 img
 {
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50%;
+    margin:auto;
+    padding: auto;
 }
 
 div
