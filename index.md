@@ -6,18 +6,24 @@ lang: en
 
 # 👋 Hi, I'm Samuel Buhan
 
-| About Me | Profile |
-|----------|---------|
-| I’m **Samuel Buhan**, a software engineer with **7 years of experience** in **embedded systems development**.  
-I specialize in **C, C++ and Python**, building reliable firmware and connectivity solutions for IoT, medical, AI, and aerospace projects.  
-My work focuses on creating maintainable, high-performance embedded software — from low-level drivers to secure cloud communication — while following rigorous engineering practices.  
-Currently based in **Boston (MA)**, I’m passionate about developing robust embedded platforms and exploring next-generation connectivity and automation technologies.
-| <img src="img/Lelouch.PNG" alt="Profile Picture" style="width: 200px; border-radius: 8px;"> |
+<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
+  <div style="flex:1; min-width:250px;">
+    <p><strong>Samuel Buhan</strong> is a software engineer with <strong>7 years of experience</strong> in embedded systems development.</p>
+    <p>He specializes in <strong>C, C++ and Python</strong>, building reliable firmware and connectivity solutions for IoT, medical, AI, and aerospace projects.</p>
+    <p>His work focuses on creating maintainable, high-performance embedded software — from low-level drivers to secure cloud communication — while following rigorous engineering practices.</p>
+    <p>Currently based in <strong>Boston (MA)</strong>, he’s passionate about developing robust embedded platforms and exploring next-generation connectivity and automation technologies.</p>
+  </div>
+  <div>
+    <img src="img/Lelouch.PNG" alt="Profile Picture" style="width:200px; border-radius:12px;">
+  </div>
+</div>
+
 
 <div style="text-align: center; margin: 20px 0;">
     <a href="assets/resume_software_engineer.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
 </div>
 
+----
 ## 🧰 Technical Skills
 
 **Programming Languages:**  
