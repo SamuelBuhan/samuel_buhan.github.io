@@ -1,23 +1,14 @@
-<!---
-Language : fr 
-Title : Samuel BUHAN 
-Owner : Samuel BUHAN
--->
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <title> Samuel BUHAN Website</title>
-        <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
-        <script src="https://kit.fontawesome.com/7f0eb3ccfd.js" crossorigin="anonymous"></script>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200;400&display=swap" rel="stylesheet">    </head>
-    <body>
-        <section class="header">
-            <table>
-                <tr>
-                    <td><img id="profile-pic" height="120px" src="img/Lelouch.PNG"></td>
-                    <td style="font-size: 20px;"><h1 style="font-family: Arial">Welcome to my Website</h1></td>
+---
+layout: default
+title: Welcome to my Website
+lang: fr
+---
+
+<section class="header">
+    <table>
+        <tr>
+            <td><img id="profile-pic" height="120px" src="img/Lelouch.PNG" alt="Profile Picture"></td>
+            <td style="font-size: 20px;"><h1>{{ page.title }}</h1></td>
                 </tr>
             </table>
             <nav id="header">
