@@ -24,6 +24,7 @@ lang: en
 </div>
 
 ----
+<p>
 ## 🧰 Technical Skills
 
 **Programming Languages:**  
@@ -88,8 +89,10 @@ French (Native) / English (Bilingual) / German (Conversational) / Italian (Conve
 **M.Sc. in Electronics & Computer Science** – ENSSAT (Lannion, France)  
 **M.Sc. Exchange in Embedded Systems** – UQÀM (Montréal, Canada)
 
+<a href="education.md"> Learn more</a>
 
 ## Contact Me
 
 - [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/samuel-buhan-798529175)
 - [<i class="fa fa-envelope"></i> Email](mailto:samuelbuhan@gmail.com)
+</p>

@@ -59,6 +59,18 @@ a:hover{
     background-color: gold;
 }
 
+/* Ensure .button from pages (resume/download) shows correct background and text color
+   Use high specificity and !important to override remote theme rules if necessary */
+a.button, a.button span, a#download-zip.button, a#view-on-github.button {
+    background-color: #4CAF50 !important;
+    color: black !important;
+    text-decoration: none !important;
+    padding: 10px 20px !important;
+    border-radius: 5px !important;
+    display: inline-block !important;
+}
+
+
 p
 {
     font-size: 1em;
