@@ -14,13 +14,13 @@ lang: en
     <p>Currently based in <strong>Boston (MA)</strong>, he’s passionate about developing robust embedded platforms and exploring next-generation connectivity and automation technologies.</p>
   </div>
   <div>
-    <img src="img/Lelouch.PNG" alt="Profile Picture" style="width:200px; border-radius:12px;">
+    <img src="img/profile.jpeg" alt="Profile Picture" style="width:200px; border-radius:12px;">
   </div>
 </div>
 
 
 <div style="text-align: center; margin: 20px 0;">
-    <a href="assets/resume_software_engineer.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
+    <a href="assets/resume_software_engineer.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: black; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
 </div>
 
 ----
