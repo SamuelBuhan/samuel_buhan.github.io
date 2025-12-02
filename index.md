@@ -12,10 +12,10 @@ lang: en
 # 👋 Hi, I'm Samuel Buhan
 <div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="flex:1; min-width:250px;">
-    <p><strong>Samuel Buhan</strong> is a software engineer with <strong>7 years of experience</strong> in embedded systems development.</p>
-    <p>He specializes in <strong>C, C++ and Python</strong>, building reliable firmware and connectivity solutions for IoT, medical, AI, and aerospace projects.</p>
-    <p>His work focuses on creating maintainable, high-performance embedded software — from low-level drivers to secure cloud communication — while following rigorous engineering practices.</p>
-    <p>Currently based in <strong>Boston (MA)</strong>, he’s passionate about developing robust embedded platforms and exploring next-generation connectivity and automation technologies.</p>
+    <p><strong>I'm Samuel Buhan</strong>, a software engineer with <strong>7 years of experience</strong> in embedded systems development.</p>
+    <p>I specialize in <strong>C, C++ and Python</strong>, building reliable firmware and connectivity solutions for IoT, medical, AI, and aerospace projects.</p>
+    <p>My work focuses on creating maintainable, high-performance embedded software — from low-level drivers to secure cloud communication — while following rigorous engineering practices.</p>
+    <p>Currently based in <strong>Boston (MA)</strong>, I am passionate about developing robust embedded platforms and exploring next-generation connectivity and automation technologies.</p>
   </div>
   <div style="text-align: center; margin: 20px 0;">
       <a href="docs/Resume_software_engineer_v6.docx-3.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: green; color: black; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
