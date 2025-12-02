@@ -4,8 +4,8 @@ title: Welcome to my Website
 lang: en
 ---
 <nav class="top-nav">
-  <a href="/index.md" class="item">Home</a>
-  <a href="/pages/education.md" class="item">Education</a>
+  <a href="/" class="item">Home</a>
+  <a href="/education/" class="item">Education</a>
   <a href="/work/" class="item">Work</a>
 </nav>
 
