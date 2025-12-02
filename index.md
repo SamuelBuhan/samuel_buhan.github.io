@@ -3,6 +3,13 @@ layout: default
 title: Welcome to my Website
 lang: en
 ---
+<nav class="top-nav">
+  <a href="/" class="item">Home</a>
+  <a href="/projects/" class="item">Projects</a>
+  <a href="/education/" class="item">Education</a>
+  <a href="/work/" class="item">Work</a>
+  <a href="/about/" class="item">About</a>
+</nav>
 
 # 👋 Hi, I'm Samuel Buhan
 <div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
@@ -12,19 +19,10 @@ lang: en
     <p>His work focuses on creating maintainable, high-performance embedded software — from low-level drivers to secure cloud communication — while following rigorous engineering practices.</p>
     <p>Currently based in <strong>Boston (MA)</strong>, he’s passionate about developing robust embedded platforms and exploring next-generation connectivity and automation technologies.</p>
   </div>
-  <div>
-    <img src="img/profile.jpeg" alt="Profile Picture" style="width:200px; border-radius:12px;">
-  </div>
-</div>
-
-<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="text-align: center; margin: 20px 0;">
-      <a href="assets/resume_software_engineer.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: green; color: black; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
-  </div>
-  <div>
+      <a href="docs/Resume_software_engineer_v6.docx-3.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: green; color: black; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
   </div>
 </div>
-
 ---
 
 ## Technical Skills
