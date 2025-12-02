@@ -2,7 +2,7 @@
 layout: default
 title: Education
 lang: en
-permalink: /education/
+permalink: /pages/education/
 ---
 
 # 🎓 Education

@@ -4,9 +4,9 @@ title: Welcome to my Website
 lang: en
 ---
 <nav class="top-nav">
-  <a href="/" class="item">Home</a>
-  <a href="/education/" class="item">Education</a>
-  <a href="/work/" class="item">Work</a>
+  <a href="{{ '/' | relative_url }}" class="item">Home</a>
+  <a href="{{ '/pages/education/' | relative_url }}" class="item">Education</a>
+  <a href="{{ '/pages/work/' | relative_url }}" class="item">Work</a>
 </nav>
 
 # 👋 Hi, I'm Samuel Buhan

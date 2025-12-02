@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Education
+title: Work
 lang: en
-permalink: /education/
+permalink: /pages/work/
 ---
 
 # 💼 Professional Experience
