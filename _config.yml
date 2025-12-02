@@ -8,6 +8,18 @@ description: Embedded Software Engineer | C / Python / IoT Systems
 author: Samuel Buhan
 lang: en
 
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Education"
+    url: "/education/"
+  - title: "Work Experiences"
+    url: "/work/"
+  - title: "About"
+    url: "/about/"
+
 # Social links
 github_username: SamuelBuhan
 linkedin_username: samuel-buhan

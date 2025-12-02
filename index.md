@@ -5,7 +5,6 @@ lang: en
 ---
 
 # 👋 Hi, I'm Samuel Buhan
-
 <div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
   <div style="flex:1; min-width:250px;">
     <p><strong>Samuel Buhan</strong> is a software engineer with <strong>7 years of experience</strong> in embedded systems development.</p>
@@ -18,38 +17,84 @@ lang: en
   </div>
 </div>
 
-
-<div style="text-align: center; margin: 20px 0;">
-    <a href="assets/resume_software_engineer.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: black; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
+<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
+  <div style="text-align: center; margin: 20px 0;">
+      <a href="assets/resume_software_engineer.pdf" class="button" style="display: inline-block; padding: 10px 20px; background-color: green; color: black; text-decoration: none; border-radius: 5px;" download>📄 Download my Resume</a>
+  </div>
+  <div>
+  </div>
 </div>
 
-----
-<p>
-## 🧰 Technical Skills
+---
+
+## Technical Skills
 
 **Programming Languages:**  
-C / C++ / Python / Assembler / Java / VHDL  
+- C
+- C++
+- Python
+- Assembler
+- Java
+- VHDL
 
 **Embedded Platforms & Microcontrollers:**  
-ARM (Cortex-M) / STM32 / Microchip PIC / Nordic nRF / Raspberry Pi / Analog Devices Blackfin / FPGA  
+- ARM (Cortex-M)
+- STM32
+- Microchip PIC
+- Nordic nRF
+- Raspberry Pi
+- Analog Devices Blackfin
+- FPGA
 
 **Communication Protocols & Interfaces:**  
-I2C / SPI / UART / USART / USB / GPIO / RS232 / RS485 / CAN / BLE / MQTT  
+- I2C
+- SPI
+- UART / USART
+- USB
+- GPIO
+- RS232 / RS485
+- CAN
+- BLE
+- MQTT
 
 **Operating Systems & RTOS:**  
-Linux (Embedded & Desktop) / FreeRTOS / Micrium OS / VxWorks  
+- Linux (Embedded & Desktop)
+- FreeRTOS
+- Micrium OS
+- VxWorks
 
 **Tools & Development Environments:**  
-AWS IoT / Git / GitHub / GitLab / CI-CD / Docker / Bash / STM32CubeIDE / Logic Analyzers / Oscilloscope / PostgreSQL / Protocol Sniffers  
+- AWS IoT
+- Git
+- GitHub
+- GitLab
+- CI-CD
+- Docker
+- Bash
+- STM32CubeIDE
+- Logic Analyzers
+- Oscilloscope
+- PostgreSQL
+- Protocol Sniffers
 
 **AI & Computer Vision:**  
-TensorFlow / OpenCV / CNN optimization for embedded platforms / YOLOv3  
+- TensorFlow
+- OpenCV
+- CNN optimization for embedded platforms
+- YOLOv3
 
 **Libraries & Frameworks:**  
-AWS SDK / Qt (HMI / GUI) / Pandas / Streamlit  
+- AWS SDK
+- Qt (HMI / GUI)
+- Pandas
+- Streamlit
 
 **Languages:**  
-French (Native) / English (Bilingual) / German (Conversational) / Italian (Conversational) / Spanish (Conversational)
+- French (Native)
+- English (Bilingual)
+- German (Conversational)
+- Italian (Conversational)
+- Spanish (Conversational)
 
 ---
 
@@ -95,4 +140,3 @@ French (Native) / English (Bilingual) / German (Conversational) / Italian (Conve
 
 - [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/samuel-buhan-798529175)
 - [<i class="fa fa-envelope"></i> Email](mailto:samuelbuhan@gmail.com)
-</p>
