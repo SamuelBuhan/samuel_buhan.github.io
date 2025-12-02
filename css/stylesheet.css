@@ -1,4 +1,6 @@
 /* ID */
+@import "{{ site.theme }}";
+
 #header
 {
     background-color: darkgrey;
