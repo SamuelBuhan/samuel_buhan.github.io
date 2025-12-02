@@ -5,7 +5,7 @@ lang: en
 permalink: /education/
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Preparatory School
 Highly competitive school to prepare to enter to engineering school.

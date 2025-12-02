@@ -4,11 +4,9 @@ title: Welcome to my Website
 lang: en
 ---
 <nav class="top-nav">
-  <a href="/" class="item">Home</a>
-  <a href="/projects/" class="item">Projects</a>
-  <a href="/education/" class="item">Education</a>
+  <a href="/index.md" class="item">Home</a>
+  <a href="/pages/education.md" class="item">Education</a>
   <a href="/work/" class="item">Work</a>
-  <a href="/about/" class="item">About</a>
 </nav>
 
 # 👋 Hi, I'm Samuel Buhan
@@ -27,7 +25,9 @@ lang: en
 
 ## Technical Skills
 
-**Programming Languages:**  
+<details>
+  <summary><strong>Programming Languages</strong></summary>
+
 - C
 - C++
 - Python
@@ -35,7 +35,11 @@ lang: en
 - Java
 - VHDL
 
-**Embedded Platforms & Microcontrollers:**  
+</details>
+
+<details>
+  <summary><strong>Embedded Platforms & Microcontrollers</strong></summary>
+
 - ARM (Cortex-M)
 - STM32
 - Microchip PIC
@@ -44,7 +48,11 @@ lang: en
 - Analog Devices Blackfin
 - FPGA
 
-**Communication Protocols & Interfaces:**  
+</details>
+
+<details>
+  <summary><strong>Communication Protocols & Interfaces</strong></summary>
+
 - I2C
 - SPI
 - UART / USART
@@ -55,13 +63,21 @@ lang: en
 - BLE
 - MQTT
 
-**Operating Systems & RTOS:**  
+</details>
+
+<details>
+  <summary><strong>Operating Systems & RTOS</strong></summary>
+
 - Linux (Embedded & Desktop)
 - FreeRTOS
 - Micrium OS
 - VxWorks
 
-**Tools & Development Environments:**  
+</details>
+
+<details>
+  <summary><strong>Tools & Development Environments</strong></summary>
+
 - AWS IoT
 - Git
 - GitHub
@@ -75,64 +91,40 @@ lang: en
 - PostgreSQL
 - Protocol Sniffers
 
-**AI & Computer Vision:**  
+</details>
+
+<details>
+  <summary><strong>AI & Computer Vision</strong></summary>
+
 - TensorFlow
 - OpenCV
 - CNN optimization for embedded platforms
 - YOLOv3
 
-**Libraries & Frameworks:**  
+</details>
+
+<details>
+  <summary><strong>Libraries & Frameworks</strong></summary>
+
 - AWS SDK
 - Qt (HMI / GUI)
 - Pandas
 - Streamlit
 
-**Languages:**  
+</details>
+
+<details>
+  <summary><strong>Languages</strong></summary>
+
 - French (Native)
 - English (Bilingual)
 - German (Conversational)
 - Italian (Conversational)
 - Spanish (Conversational)
 
----
-
-## 💼 Professional Experience
-
-**Embedded Software Engineer (Consultant)** – France  |  *Dec 2024 – Present*  
-- Integrated a **4G LTE modem** for industrial IoT devices to improve field reliability.  
-- Built a **Python testing tool** to validate modem communication.  
-- Implemented **UART communication** using the nRF SDK and FreeRTOS.  
-- Established secure **MQTT links to AWS IoT Core** with device authentication.  
-- Designed a **network-switching algorithm** to select optimal coverage between carriers.  
-- Delivered a complete **embedded-to-cloud pipeline** via AWS Kinesis and Lambda.
-
-**Embedded Software Engineer – Syntony GNSS** | Toulouse, France  |  *May 2022 – Dec 2024*  
-- Led architecture, debugging, and validation of an **Android app**, achieving public release.  
-- Built a **CI/CD pipeline** for automated Android builds.  
-- Created a **Qt communication protocol** reducing installation time by 2 days.  
-- Developed a **daemon service** integrating GNSS corrections via Ublox M8T.  
-- Built **Python tools for precision error analysis** and deployment support using Docker & Streamlit.  
-
-**Embedded Systems Research Engineer – CNRS** | Bordeaux, France  |  *Mar 2021 – Apr 2022*  
-- Led development of an **electronic bracelet prototype** for amputee research trials.  
-- Implemented communication with IMU and Bluetooth modules, optimized filtering, and developed battery-management software.  
-- Worked extensively with **ADC, I2C, SPI, UART, USB, RS485**, and STM32 BSP.  
-
-**Embedded C++ Engineer – NeoTec Vision** | Pacé, France  |  *May 2020 – Nov 2020*  
-- Ported **CNN-based object detection** to an embedded Raspberry Pi-like board for hornet detection.  
-- Cross-compiled **OpenCV and TensorFlow** for embedded Linux to enable real-time AI inference.  
-
-**Software Engineer Intern – IRISA / CNRS** | Lannion, France  |  *Jun 2019 – Aug 2019*  
-- Studied YOLOv3 behavior and adapted AI processing for constrained DSP hardware.  
+</details>
 
 ---
-
-## 🎓 Education
-
-**M.Sc. in Electronics & Computer Science** – ENSSAT (Lannion, France)  
-**M.Sc. Exchange in Embedded Systems** – UQÀM (Montréal, Canada)
-
-<a href="education.md"> Learn more</a>
 
 ## Contact Me
 
